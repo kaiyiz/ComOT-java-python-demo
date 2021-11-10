@@ -1,6 +1,6 @@
 # Load Java class file using Jpype (combinatorial OT)
 
-This repository contains a demo showing how to use Jpype to import Java classes. Here the java code is the implementation of a combinatorial optimal transport algorithm.
+This repository contains a demo showing how to use Jpype to import Java classes. Here the java code is the implementation of a combinatorial optimal transport algorithm: https://github.com/nathaniellahn/CombinatorialOptimalTransport
 
 ## Preparation
 
