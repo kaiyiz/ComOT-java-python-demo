@@ -35,4 +35,4 @@ Construct and execute combinatorial optimal transport algorithm
 | double[][]  | getFlow()           | Get the final flow (100% transportation)                                                                                     |
 | double      | getTotalCost()      | Get the total cost of OT  (summation of cost times flow for every edges)                                                     |
 | double[]    | getDual()           | Get dual weights from every nodes                                                                                            |
-| double[][]  | getFlowLog(int idx) | Get the flow logged at intermediate step, which are 25, 50, 75, 95, 98%.  Input is the corresponding to the stop step index. |
+| double[][]  | getFlowLog(int idx) | Get the flow logged at intermediate step, which are 25, 50, 75, 95, 98%.  Input is the index corresponding to the stop step. |
