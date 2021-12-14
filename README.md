@@ -10,7 +10,7 @@ This repository contains a demo showing how to use Jpype to import Java classes.
 conda install -c conda-forge jpype1
 ```
 
-2. Under path './GTTransport/src/' create .jar file using terminal. Here we use the java class files under folder 'optimaltransport_flow_snapshot' 
+2. Under path './GTTransport/src/' create .jar file through terminal. Here we use the java class files under folder 'optimaltransport_flow_snapshot' 
 
 ```bash
 jar cvf optimaltransport.jar optimaltransport
